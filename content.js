@@ -10,7 +10,7 @@
   overlay.style = "position:fixed;top:0;left:0;width:100vw;height:100vh;background:white;z-index:999999;display:flex;flex-direction:column;justify-content:center;align-items:center;font-family:sans-serif;";
   overlay.innerHTML = `
     <h1>Hold on for 10 seconds...</h1>
-    <p>Think about your feelings. Why do you want to open this page? Write it down.p>
+    <p>Think about your feelings. Why do you want to open this page? Write it down.</p>
   `;
   document.documentElement.appendChild(overlay);
 
